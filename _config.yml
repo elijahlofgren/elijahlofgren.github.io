@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://elijahlofgren.github.io
+title: Elijah Lofgren's Blog
+email: elijahlofgren@gmail.com
+author: Elijah Lofgren
+description: Elijah Lofgren's Blog
+paginate: 6
+google_analytics: 
