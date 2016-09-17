@@ -9,7 +9,7 @@ New cool coffee shop, Prevail Union is on the verge of opening: [http://www.prev
 
 Work is being done on an Arts district: [FIVE POINTS ARTS & CULTURAL DISTRICT](http://www.artplaceamerica.org/funded-projects/five-points-arts-cultural-district)
 
-A Code For America Brigade is getting off the group: [https://hackmgm.org/](https://hackmgm.org/)
+A Code For America Brigade is getting off the ground: [https://hackmgm.org/](https://hackmgm.org/)
 
 A few different community groups are starting to stand the test of time:
 [Geek Breakfast Montgomery](https://www.facebook.com/groups/mgmgeekbreakfast/) and [River Region Bloggers](http://www.meetup.com/River-Region-Bloggers/)
