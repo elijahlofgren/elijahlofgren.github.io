@@ -313,8 +313,8 @@ h6 {
 @media screen and (min-width: 64em) {
   .h1,
   h1 {
-    font-size: 4.5rem;
-    line-height: 6rem;
+    font-size: 2rem;
+    line-height: 2rem;
   }
 
   .h2,
